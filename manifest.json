@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026-08-31T17:51:53Z",
-  "generatedAt": "2026-08-31T17:51:53Z",
+  "dataVersion": "2026-08-31T17:58:20Z",
+  "generatedAt": "2026-08-31T17:58:20Z",
   "organizations": [
     "ufc"
   ],
-  "dataUrl": "https://raw.githubusercontent.com/michaelfery/roundside-data/main/dist/catalog.json"
+  "dataUrl": "https://raw.githubusercontent.com/michaelfery/roundside-catalog/main/catalog.json"
 }
