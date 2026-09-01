@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-01T17:33:13Z",
-    "generatedAt": "2026-09-01T17:33:13Z",
+    "dataVersion": "2026-09-01T21:36:14Z",
+    "generatedAt": "2026-09-01T21:36:14Z",
     "organizations": [
       "ufc"
     ]
@@ -25772,18 +25772,6 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_a47029e8b363",
           "blueCornerFighterId": "fgt_deed5b49eee7",
-          "result": null
-        },
-        {
-          "id": "bt_ef431a532e15",
-          "segmentId": "seg_4dc3ca689cc6",
-          "orderIndex": 9,
-          "weightClass": "FEATHERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_4aff148de9e3",
-          "blueCornerFighterId": "fgt_18ba6e0c4eb5",
           "result": null
         },
         {
