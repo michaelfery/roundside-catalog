@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-01T05:27:36Z",
-    "generatedAt": "2026-09-01T05:27:36Z",
+    "dataVersion": "2026-09-01T05:28:15Z",
+    "generatedAt": "2026-09-01T05:28:15Z",
     "organizations": [
       "ufc"
     ]
@@ -1018,6 +1018,23 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4389085.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4389085.png"
+    },
+    {
+      "id": "fgt_09e61272c6f4",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5369425"
+        }
+      ],
+      "fullName": "Apollo Gomes",
+      "nickname": "Deus da Guerra",
+      "nationality": "BR",
+      "recordWins": 12,
+      "recordLosses": 2,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
     },
     {
       "id": "fgt_6617658cdc29",
@@ -2414,6 +2431,23 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3163772.png"
     },
     {
+      "id": "fgt_5f907604e061",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "4816065"
+        }
+      ],
+      "fullName": "Christian Echols",
+      "nickname": null,
+      "nationality": "US",
+      "recordWins": 8,
+      "recordLosses": 4,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
+    },
+    {
       "id": "fgt_321986cb71f2",
       "sources": [
         {
@@ -2446,6 +2480,23 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4848674.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4848674.png"
+    },
+    {
+      "id": "fgt_20c8ca2b1af5",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5445622"
+        }
+      ],
+      "fullName": "Christian Natividad",
+      "nickname": null,
+      "nationality": "US",
+      "recordWins": 9,
+      "recordLosses": 0,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
     },
     {
       "id": "fgt_2364dae6ae35",
@@ -2650,6 +2701,23 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5264462.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5264462.png"
+    },
+    {
+      "id": "fgt_a87a5c96c45e",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5362761"
+        }
+      ],
+      "fullName": "Colton Loud",
+      "nickname": null,
+      "nationality": "US",
+      "recordWins": 7,
+      "recordLosses": 1,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
     },
     {
       "id": "fgt_1aff6dedb4a2",
@@ -7871,6 +7939,23 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3155424.png"
     },
     {
+      "id": "fgt_b6f54aeb6716",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5364366"
+        }
+      ],
+      "fullName": "Martin Kozák",
+      "nickname": "CEO",
+      "nationality": null,
+      "recordWins": 6,
+      "recordLosses": 0,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
+    },
+    {
       "id": "fgt_b25d2b20c3b9",
       "sources": [
         {
@@ -8627,7 +8712,7 @@
         }
       ],
       "fullName": "Modestino Rodrigues",
-      "nickname": "The Slenderman",
+      "nickname": null,
       "nationality": "BR",
       "recordWins": 7,
       "recordLosses": 1,
@@ -9460,7 +9545,7 @@
         }
       ],
       "fullName": "Patrick Rivera",
-      "nickname": null,
+      "nickname": "Yah's Rebel",
       "nationality": "US",
       "recordWins": 13,
       "recordLosses": 4,
@@ -25781,11 +25866,23 @@
       ],
       "bouts": [
         {
-          "id": "bt_390e573222eb",
+          "id": "bt_b3d88dbdb63f",
           "segmentId": "seg_f1be6fcaf9b7",
           "orderIndex": 0,
-          "weightClass": "OTHER",
+          "weightClass": "LIGHT_HEAVYWEIGHT",
           "isMainEvent": true,
+          "isTitleFight": false,
+          "scheduledRounds": 3,
+          "redCornerFighterId": "fgt_09c10d328afd",
+          "blueCornerFighterId": "fgt_d6d964536555",
+          "result": null
+        },
+        {
+          "id": "bt_390e573222eb",
+          "segmentId": "seg_f1be6fcaf9b7",
+          "orderIndex": 1,
+          "weightClass": "WELTERWEIGHT",
+          "isMainEvent": false,
           "isTitleFight": false,
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_e62f311565bd",
@@ -25793,15 +25890,39 @@
           "result": null
         },
         {
-          "id": "bt_b3d88dbdb63f",
+          "id": "bt_fb81722474a7",
           "segmentId": "seg_f1be6fcaf9b7",
-          "orderIndex": 1,
-          "weightClass": "LIGHT_HEAVYWEIGHT",
+          "orderIndex": 2,
+          "weightClass": "MIDDLEWEIGHT",
           "isMainEvent": false,
           "isTitleFight": false,
           "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_09c10d328afd",
-          "blueCornerFighterId": "fgt_d6d964536555",
+          "redCornerFighterId": "fgt_b6f54aeb6716",
+          "blueCornerFighterId": "fgt_5f907604e061",
+          "result": null
+        },
+        {
+          "id": "bt_fe6ae382a621",
+          "segmentId": "seg_f1be6fcaf9b7",
+          "orderIndex": 3,
+          "weightClass": "BANTAMWEIGHT",
+          "isMainEvent": false,
+          "isTitleFight": false,
+          "scheduledRounds": 3,
+          "redCornerFighterId": "fgt_a758fed84bba",
+          "blueCornerFighterId": "fgt_09e61272c6f4",
+          "result": null
+        },
+        {
+          "id": "bt_ac1b8c811c0c",
+          "segmentId": "seg_f1be6fcaf9b7",
+          "orderIndex": 4,
+          "weightClass": "FLYWEIGHT",
+          "isMainEvent": false,
+          "isTitleFight": false,
+          "scheduledRounds": 3,
+          "redCornerFighterId": "fgt_a87a5c96c45e",
+          "blueCornerFighterId": "fgt_20c8ca2b1af5",
           "result": null
         }
       ]
