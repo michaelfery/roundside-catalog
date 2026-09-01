@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-08-31T21:48:57Z",
-    "generatedAt": "2026-08-31T21:48:57Z",
+    "dataVersion": "2026-09-01T05:27:36Z",
+    "generatedAt": "2026-09-01T05:27:36Z",
     "organizations": [
       "ufc"
     ]
@@ -4138,7 +4138,7 @@
           "externalId": "5215710"
         }
       ],
-      "fullName": "Gabriel Lourenço",
+      "fullName": "Gabriel Lorenço",
       "nickname": "Black Mamba",
       "nationality": "BR",
       "recordWins": 7,
@@ -4775,6 +4775,23 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4918083.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4918083.png"
+    },
+    {
+      "id": "fgt_e62f311565bd",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5264395"
+        }
+      ],
+      "fullName": "Isaac Moreno",
+      "nickname": "Prime Time",
+      "nationality": "US",
+      "recordWins": 8,
+      "recordLosses": 0,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
     },
     {
       "id": "fgt_c4bec0af8479",
@@ -8272,8 +8289,8 @@
       "fullName": "Michael Aljarouj",
       "nickname": "The Soldier",
       "nationality": "FR",
-      "recordWins": 0,
-      "recordLosses": 1,
+      "recordWins": 13,
+      "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": null,
       "imageStanceUrl": null
@@ -9977,6 +9994,23 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5338118.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5338118.png"
+    },
+    {
+      "id": "fgt_e698b486ee63",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "5291155"
+        }
+      ],
+      "fullName": "Reginaldo Junior",
+      "nickname": "The Beast",
+      "nationality": "BR",
+      "recordWins": 11,
+      "recordLosses": 1,
+      "recordDraws": 0,
+      "imageUrl": null,
+      "imageStanceUrl": null
     },
     {
       "id": "fgt_db57625d0fc7",
@@ -12476,6 +12510,11 @@
       "venue": "Accor Arena",
       "city": "Paris",
       "country": "FR",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_89f6763f21a0",
@@ -12756,6 +12795,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W5"
+      },
       "segments": [
         {
           "id": "seg_b990f7830e94",
@@ -12877,6 +12921,11 @@
       "venue": "Frost Bank Center",
       "city": "San Antonio",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Noche",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_3ff741a98bf1",
@@ -13176,6 +13225,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W6"
+      },
       "segments": [
         {
           "id": "seg_a28ded1da450",
@@ -13297,6 +13351,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W7"
+      },
       "segments": [
         {
           "id": "seg_ed1c64db1f5f",
@@ -13418,6 +13477,11 @@
       "venue": "RAC Arena (AUS)",
       "city": "Perth",
       "country": "AU",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_1c9d8107ccee",
@@ -13679,6 +13743,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W8"
+      },
       "segments": [
         {
           "id": "seg_bb3232da341b",
@@ -13800,6 +13869,11 @@
       "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "320",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_fc4be7aa38d4",
@@ -14106,6 +14180,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W9"
+      },
       "segments": [
         {
           "id": "seg_1e432b9eada2",
@@ -14227,6 +14306,11 @@
       "venue": "Farmasi Arena",
       "city": "Rio De Janeiro",
       "country": "BR",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_12ab5d78d61e",
@@ -14488,6 +14572,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S9 · W10"
+      },
       "segments": [
         {
           "id": "seg_5e73827cdf3d",
@@ -14628,6 +14717,11 @@
       "venue": "Rogers Arena",
       "city": "Vancouver",
       "country": "CA",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_33d3fe9b4d91",
@@ -14908,6 +15002,11 @@
       "venue": "Etihad Arena",
       "city": "Abu Dhabi",
       "country": "AE",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "321",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_17811037b5e6",
@@ -15188,6 +15287,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_7c1bc1158860",
@@ -15468,6 +15572,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_7deb2d68ac0f",
@@ -15729,6 +15838,11 @@
       "venue": "Madison Square Garden",
       "city": "New York",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "322",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_56b237e8e4f3",
@@ -16035,6 +16149,11 @@
       "venue": "ABHA Arena",
       "city": "Doha",
       "country": "QA",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_478f5953e4d4",
@@ -16334,6 +16453,11 @@
       "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "323",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_b12e30dd963f",
@@ -16640,6 +16764,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_b5cd04c86101",
@@ -16901,6 +17030,11 @@
       "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "324",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_e32fdf216d0f",
@@ -17150,6 +17284,11 @@
       "venue": "Qudos Bank Arena",
       "city": "Sydney",
       "country": "AU",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "325",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_34398e0ef4b4",
@@ -17437,6 +17576,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_a3de544a769f",
@@ -17717,6 +17861,11 @@
       "venue": "Toyota Center (Houston)",
       "city": "Houston",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_8ffed66f32db",
@@ -18016,6 +18165,11 @@
       "venue": "Arena CDMX",
       "city": "Mexico City",
       "country": "MX",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_441ca04c8542",
@@ -18296,6 +18450,11 @@
       "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "326",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_6c256b047a5a",
@@ -18564,6 +18723,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_4af584a146f8",
@@ -18863,6 +19027,11 @@
       "venue": "O2 Arena (ENG)",
       "city": "London",
       "country": "GB",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_1024c462a964",
@@ -19143,6 +19312,11 @@
       "venue": "Climate Pledge Arena",
       "city": "Seattle",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_84a88b3750fe",
@@ -19423,6 +19597,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_c5d8b2859f1e",
@@ -19703,6 +19882,11 @@
       "venue": "Kaseya Center",
       "city": "Miami",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "327",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_a52fea25fe5c",
@@ -19971,6 +20155,11 @@
       "venue": "Canada Life Centre",
       "city": "Winnipeg",
       "country": "CA",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_5049682c1ebb",
@@ -20232,6 +20421,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_48392921d9aa",
@@ -20512,6 +20706,11 @@
       "venue": "RAC Arena (AUS)",
       "city": "Perth",
       "country": "AU",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_c9f161d0d6f3",
@@ -20792,6 +20991,11 @@
       "venue": "Prudential Center",
       "city": "Newark",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "328",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_5a9e454f41ec",
@@ -21079,6 +21283,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_04aad11b4f9f",
@@ -21359,6 +21568,11 @@
       "venue": "Galaxy Arena",
       "city": "Cotai",
       "country": "Macau",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_0161b2ca2259",
@@ -21639,6 +21853,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_a0f9533075d5",
@@ -21900,6 +22119,11 @@
       "venue": "South Lawn of the White House",
       "city": "Washington",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "250",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_2aa866efcdbc",
@@ -22059,6 +22283,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_ba1889a75064",
@@ -22320,6 +22549,11 @@
       "venue": "National Gymnastics Arena",
       "city": "Baku",
       "country": "AZ",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_7f2e99b53ed3",
@@ -22600,6 +22834,11 @@
       "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "329",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_87987df72a97",
@@ -22906,6 +23145,11 @@
       "venue": "Paycom Center",
       "city": "Oklahoma City",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_5f39cb859bd1",
@@ -23167,6 +23411,11 @@
       "venue": "Etihad Arena",
       "city": "Abu Dhabi",
       "country": "AE",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_5324c29008ef",
@@ -23428,6 +23677,11 @@
       "venue": "Belgrade Arena",
       "city": "Belgrade",
       "country": "RS",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_bfee31be8859",
@@ -23727,6 +23981,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_a05580c4ccfe",
@@ -23988,6 +24247,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S10 · W1"
+      },
       "segments": [
         {
           "id": "seg_6d3f47d2e8f9",
@@ -24109,6 +24373,11 @@
       "venue": "Xfinity Mobile Arena",
       "city": "Philadelphia",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "330",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_77cb009b2200",
@@ -24377,6 +24646,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S10 · W2"
+      },
       "segments": [
         {
           "id": "seg_c7171155b28b",
@@ -24498,6 +24772,11 @@
       "venue": "Golden 1 Center",
       "city": "Sacramento",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_da10388cbb51",
@@ -24778,6 +25057,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S10 · W3"
+      },
       "segments": [
         {
           "id": "seg_74d01d00ba60",
@@ -24899,6 +25183,11 @@
       "venue": "Shanghai Oriental Sports Center",
       "city": "Shanghai",
       "country": "CN",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_d56097e42701",
@@ -25179,6 +25468,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S10 · W4"
+      },
       "segments": [
         {
           "id": "seg_f3f242aa010d",
@@ -25265,6 +25559,11 @@
       "venue": "Accor Arena",
       "city": "Paris",
       "country": "FR",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_af0286d3b1ae",
@@ -25466,6 +25765,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "DWCS",
+        "detail": "S10 · W5"
+      },
       "segments": [
         {
           "id": "seg_f1be6fcaf9b7",
@@ -25476,6 +25780,18 @@
         }
       ],
       "bouts": [
+        {
+          "id": "bt_390e573222eb",
+          "segmentId": "seg_f1be6fcaf9b7",
+          "orderIndex": 0,
+          "weightClass": "OTHER",
+          "isMainEvent": true,
+          "isTitleFight": false,
+          "scheduledRounds": 3,
+          "redCornerFighterId": "fgt_e62f311565bd",
+          "blueCornerFighterId": "fgt_e698b486ee63",
+          "result": null
+        },
         {
           "id": "bt_b3d88dbdb63f",
           "segmentId": "seg_f1be6fcaf9b7",
@@ -25504,6 +25820,11 @@
       "venue": "Desert Diamond Arena",
       "city": "Glendale",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Noche",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_3e5f68ecd198",
@@ -25681,6 +26002,11 @@
       "venue": "crypto.com Arena",
       "city": "Los Angeles",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "331",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_4227bbc84357",
@@ -25877,6 +26203,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_e046e4de3d03",
@@ -26042,6 +26373,11 @@
       "venue": "Delta Center",
       "city": "Salt Lake City",
       "country": "US",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "332",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_23bf9eff1ccf",
@@ -26166,6 +26502,11 @@
       "venue": "Rogers Place",
       "city": "Edmonton",
       "country": "CA",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_aea34217da5e",
@@ -26319,6 +26660,11 @@
       "venue": "Etihad Arena",
       "city": "Abu Dhabi",
       "country": "AE",
+      "badge": {
+        "kind": "NUMBER",
+        "text": "333",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_91fe8c5ef397",
@@ -26460,6 +26806,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_679119f7b331",
@@ -26505,6 +26856,11 @@
       "venue": "Meta APEX",
       "city": "Las Vegas",
       "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
       "segments": [
         {
           "id": "seg_a0340e0e85be",
