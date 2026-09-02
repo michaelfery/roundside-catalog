@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-01T21:36:14Z",
-    "generatedAt": "2026-09-01T21:36:14Z",
+    "dataVersion": "2026-09-02T11:57:19Z",
+    "generatedAt": "2026-09-02T11:57:19Z",
     "organizations": [
       "ufc"
     ]
@@ -146,7 +146,7 @@
       "fullName": "Adam Darby",
       "nickname": "The Plank",
       "nationality": "IE",
-      "recordWins": 7,
+      "recordWins": 8,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5369446.png",
@@ -180,7 +180,7 @@
       "fullName": "Adam Livingston",
       "nickname": "Bomb",
       "nationality": "US",
-      "recordWins": 7,
+      "recordWins": 8,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5307815.png",
@@ -831,23 +831,6 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4697476.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4697476.png"
-    },
-    {
-      "id": "fgt_62e31f1291da",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "4738749"
-        }
-      ],
-      "fullName": "Andreas Gustafsson",
-      "nickname": "Bane",
-      "nationality": "SE",
-      "recordWins": 12,
-      "recordLosses": 3,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4738749.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4738749.png"
     },
     {
       "id": "fgt_d16e8c359bc6",
@@ -1677,7 +1660,7 @@
       "nickname": null,
       "nationality": "US",
       "recordWins": 6,
-      "recordLosses": 1,
+      "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5296762.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5296762.png"
@@ -2255,7 +2238,7 @@
       "nickname": "The Reaper",
       "nationality": "US",
       "recordWins": 6,
-      "recordLosses": 1,
+      "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5369424.png",
       "imageStanceUrl": null
@@ -4209,7 +4192,7 @@
       "fullName": "Gabriel Lorenço",
       "nickname": "Black Mamba",
       "nationality": "BR",
-      "recordWins": 7,
+      "recordWins": 8,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5215710.png",
@@ -4618,7 +4601,7 @@
       "nickname": "Headshot",
       "nationality": "US",
       "recordWins": 8,
-      "recordLosses": 1,
+      "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5364357.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5364357.png"
@@ -7015,7 +6998,7 @@
       "nickname": null,
       "nationality": "GB",
       "recordWins": 8,
-      "recordLosses": 1,
+      "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5125221.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5125221.png"
@@ -8714,7 +8697,7 @@
       "fullName": "Modestino Rodrigues",
       "nickname": null,
       "nationality": "BR",
-      "recordWins": 7,
+      "recordWins": 8,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5364355.png",
@@ -8974,23 +8957,6 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4277795.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4277795.png"
-    },
-    {
-      "id": "fgt_af41da32860e",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "4690539"
-        }
-      ],
-      "fullName": "Nassourdine Imavov",
-      "nickname": "The Sniper",
-      "nationality": "FR",
-      "recordWins": 17,
-      "recordLosses": 4,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4690539.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4690539.png"
     },
     {
       "id": "fgt_2015086e7b4d",
@@ -9548,27 +9514,10 @@
       "nickname": "Yah's Rebel",
       "nationality": "US",
       "recordWins": 13,
-      "recordLosses": 4,
+      "recordLosses": 5,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4791642.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4791642.png"
-    },
-    {
-      "id": "fgt_d239b241bab3",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "3946951"
-        }
-      ],
-      "fullName": "Paul Craig",
-      "nickname": "BearJew",
-      "nationality": "GB",
-      "recordWins": 17,
-      "recordLosses": 10,
-      "recordDraws": 1,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/3946951.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3946951.png"
     },
     {
       "id": "fgt_31cf72aabc5b",
@@ -10149,23 +10098,6 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3028863.png"
     },
     {
-      "id": "fgt_5a31864de293",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "4078243"
-        }
-      ],
-      "fullName": "Rhys McKee",
-      "nickname": "Skeletor",
-      "nationality": "IE",
-      "recordWins": 15,
-      "recordLosses": 7,
-      "recordDraws": 1,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4078243.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4078243.png"
-    },
-    {
       "id": "fgt_9899135c11c8",
       "sources": [
         {
@@ -10232,23 +10164,6 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/3928693.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3928693.png"
-    },
-    {
-      "id": "fgt_d4ed1d3561b0",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "4712980"
-        }
-      ],
-      "fullName": "Rinat Fakhretdinov",
-      "nickname": "Gladiator",
-      "nationality": "RU",
-      "recordWins": 24,
-      "recordLosses": 1,
-      "recordDraws": 1,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4712980.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4712980.png"
     },
     {
       "id": "fgt_d2edd9d0744b",
@@ -11111,7 +11026,7 @@
       "fullName": "Silvestre Sanchez",
       "nickname": "Gorilla",
       "nationality": "MX",
-      "recordWins": 9,
+      "recordWins": 10,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5369437.png",
@@ -11883,23 +11798,6 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5048900.png"
     },
     {
-      "id": "fgt_f9e49034ca56",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5092403"
-        }
-      ],
-      "fullName": "Trey Waters",
-      "nickname": "The Truth",
-      "nationality": "US",
-      "recordWins": 10,
-      "recordLosses": 2,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5092403.png",
-      "imageStanceUrl": null
-    },
-    {
       "id": "fgt_e87df579dcca",
       "sources": [
         {
@@ -12581,291 +12479,6 @@
     }
   ],
   "events": [
-    {
-      "id": "evt_c83a8c30bd34",
-      "organizationId": "ufc",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "600054419"
-        }
-      ],
-      "name": "UFC Fight Night: Imavov vs. Borralho",
-      "startAt": "2025-09-06T16:00:00Z",
-      "venue": "Accor Arena",
-      "city": "Paris",
-      "country": "FR",
-      "badge": {
-        "kind": "LABEL",
-        "text": "Fight Night",
-        "detail": null
-      },
-      "segments": [
-        {
-          "id": "seg_89f6763f21a0",
-          "kind": "MAIN_CARD",
-          "label": "Main Card",
-          "orderIndex": 0,
-          "startAt": "2025-09-06T16:00:00Z"
-        },
-        {
-          "id": "seg_7fb921ad9768",
-          "kind": "PRELIMINARY",
-          "label": "Prelims",
-          "orderIndex": 1,
-          "startAt": "2025-09-06T16:00:00Z"
-        }
-      ],
-      "bouts": [
-        {
-          "id": "bt_03023170cec2",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 0,
-          "weightClass": "MIDDLEWEIGHT",
-          "isMainEvent": true,
-          "isTitleFight": false,
-          "scheduledRounds": 5,
-          "redCornerFighterId": "fgt_af41da32860e",
-          "blueCornerFighterId": "fgt_7289bad4fa0c",
-          "result": {
-            "outcome": "DECISION",
-            "method": "Decision - Unanimous",
-            "winnerFighterId": "fgt_af41da32860e",
-            "endRound": 5,
-            "endTime": "5:00",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_2321110f0db3",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 1,
-          "weightClass": "LIGHTWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_76c6ea3c4db7",
-          "blueCornerFighterId": "fgt_913c7fc6f240",
-          "result": {
-            "outcome": "SUBMISSION",
-            "method": "Submission",
-            "winnerFighterId": "fgt_76c6ea3c4db7",
-            "endRound": 2,
-            "endTime": "2:56",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_4819c817488d",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 2,
-          "weightClass": "LIGHT_HEAVYWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_deed5b49eee7",
-          "blueCornerFighterId": "fgt_d239b241bab3",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_deed5b49eee7",
-            "endRound": 1,
-            "endTime": "5:00",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_56a03b44fb69",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 3,
-          "weightClass": "LIGHTWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_36a2cacfaf2c",
-          "blueCornerFighterId": "fgt_e815e3d036b4",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_e815e3d036b4",
-            "endRound": 2,
-            "endTime": "3:18",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_6c2b4e192205",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 4,
-          "weightClass": "WELTERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_fbf7e9b6053c",
-          "blueCornerFighterId": "fgt_5a31864de293",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_fbf7e9b6053c",
-            "endRound": 3,
-            "endTime": "2:02",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_30691ee10390",
-          "segmentId": "seg_89f6763f21a0",
-          "orderIndex": 5,
-          "weightClass": "FEATHERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_abbb68a28caa",
-          "blueCornerFighterId": "fgt_09f98262cf36",
-          "result": {
-            "outcome": "DECISION",
-            "method": "Decision - Unanimous",
-            "winnerFighterId": "fgt_abbb68a28caa",
-            "endRound": 3,
-            "endTime": "5:00",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_955cc01eefaf",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 6,
-          "weightClass": "LIGHT_HEAVYWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_a47029e8b363",
-          "blueCornerFighterId": "fgt_f117fb8a3735",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_a47029e8b363",
-            "endRound": 1,
-            "endTime": "4:42",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_78525779db35",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 7,
-          "weightClass": "HEAVYWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_1b593f8a9001",
-          "blueCornerFighterId": "fgt_36c8e7f47ed7",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_36c8e7f47ed7",
-            "endRound": 1,
-            "endTime": "2:03",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_509d09aa5cb6",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 8,
-          "weightClass": "LIGHTWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_26ad31e2be78",
-          "blueCornerFighterId": "fgt_c7bd24a129ea",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_c7bd24a129ea",
-            "endRound": 1,
-            "endTime": "3:21",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_7f5eb3dfa4bc",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 9,
-          "weightClass": "WELTERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_44ad4e7682c9",
-          "blueCornerFighterId": "fgt_f9e49034ca56",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_44ad4e7682c9",
-            "endRound": 1,
-            "endTime": "3:01",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_6ea9938fd725",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 10,
-          "weightClass": "MIDDLEWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_d97e4bd23532",
-          "blueCornerFighterId": "fgt_2e7cd461d40b",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_2e7cd461d40b",
-            "endRound": 3,
-            "endTime": "1:43",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_4d6e2dbbcb96",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 11,
-          "weightClass": "WELTERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_62e31f1291da",
-          "blueCornerFighterId": "fgt_d4ed1d3561b0",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_d4ed1d3561b0",
-            "endRound": 1,
-            "endTime": "0:54",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_8bb8798c74f7",
-          "segmentId": "seg_7fb921ad9768",
-          "orderIndex": 12,
-          "weightClass": "WOMENS_STRAWWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_27ab993b5f15",
-          "blueCornerFighterId": "fgt_0e50d2a1aa03",
-          "result": {
-            "outcome": "SUBMISSION",
-            "method": "Submission",
-            "winnerFighterId": "fgt_0e50d2a1aa03",
-            "endRound": 2,
-            "endTime": "1:58",
-            "bonuses": []
-          }
-        }
-      ]
-    },
     {
       "id": "evt_275e51ce00c5",
       "organizationId": "ufc",
@@ -25578,7 +25191,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_e4a07cc2a892",
           "blueCornerFighterId": "fgt_d06a440fb162",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "TKO - Doctor's Stoppage",
+            "winnerFighterId": "fgt_d06a440fb162",
+            "endRound": 3,
+            "endTime": "2:42",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_5ac365544180",
@@ -25590,7 +25210,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_fe220267ec6a",
           "blueCornerFighterId": "fgt_6dff9871111f",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_6dff9871111f",
+            "endRound": 1,
+            "endTime": "0:15",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_fd48819cbbcc",
@@ -25602,7 +25229,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_50578a78f3db",
           "blueCornerFighterId": "fgt_0e5701a9e136",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_0e5701a9e136",
+            "endRound": 3,
+            "endTime": "2:44",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_f7c80b1ad691",
@@ -25614,7 +25248,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_1826d345c584",
           "blueCornerFighterId": "fgt_a0257b0fc4b1",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_1826d345c584",
+            "endRound": 1,
+            "endTime": "2:02",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_1283dcb0363b",
@@ -25626,7 +25267,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_91a54e29127e",
           "blueCornerFighterId": "fgt_01030c1a3b70",
-          "result": null
+          "result": {
+            "outcome": "DECISION",
+            "method": "Decision - Split",
+            "winnerFighterId": "fgt_01030c1a3b70",
+            "endRound": 3,
+            "endTime": "5:00",
+            "bonuses": []
+          }
         }
       ]
     },
@@ -26593,6 +26241,56 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_d93a40fd1f90",
           "blueCornerFighterId": "fgt_b4eb6da9e7d5",
+          "result": null
+        }
+      ]
+    },
+    {
+      "id": "evt_44ae9d79b3e5",
+      "organizationId": "ufc",
+      "sources": [
+        {
+          "source": "espn",
+          "externalId": "600061541"
+        }
+      ],
+      "name": "UFC Fight Night: Allen vs. Duncan",
+      "startAt": "2026-10-10T21:00:00Z",
+      "venue": "Meta APEX",
+      "city": "Las Vegas",
+      "country": "US",
+      "badge": {
+        "kind": "LABEL",
+        "text": "Fight Night",
+        "detail": null
+      },
+      "segments": [
+        {
+          "id": "seg_e41b1a2488fe",
+          "kind": "MAIN_CARD",
+          "label": "Main Card",
+          "orderIndex": 0,
+          "startAt": "2026-10-10T21:00:00Z"
+        },
+        {
+          "id": "seg_7bc4dc5156af",
+          "kind": "PRELIMINARY",
+          "label": "Prelims",
+          "orderIndex": 1,
+          "startAt": "2026-10-10T21:00:00Z"
+        }
+      ],
+      "bouts": [
+        {
+          "id": "bt_a2fc6c156f41",
+          "segmentId": "seg_e41b1a2488fe",
+          "orderIndex": 0,
+          "weightClass": "MIDDLEWEIGHT",
+          "isMainEvent": true,
+          "isTitleFight": false,
+          "scheduledRounds": 5,
+          "redCornerFighterId": "fgt_29586dd5db89",
+          "blueCornerFighterId": "fgt_99440070c622",
           "result": null
         }
       ]
