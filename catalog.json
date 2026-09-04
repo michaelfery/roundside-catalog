@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-04T11:58:38Z",
-    "generatedAt": "2026-09-04T11:58:38Z",
+    "dataVersion": "2026-09-04T21:14:29Z",
+    "generatedAt": "2026-09-04T21:14:29Z",
     "organizations": [
       "ufc"
     ]
@@ -9857,23 +9857,6 @@
       "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4895691.png",
-      "imageStanceUrl": null
-    },
-    {
-      "id": "fgt_a18b27b1b696",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5290796"
-        }
-      ],
-      "fullName": "Ramiro Jimenez",
-      "nickname": "El Cachanilla",
-      "nationality": "MX",
-      "recordWins": 11,
-      "recordLosses": 0,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5290796.png",
       "imageStanceUrl": null
     },
     {
@@ -25705,18 +25688,6 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_81815c1f0df2",
           "blueCornerFighterId": "fgt_fef9bd6c5082",
-          "result": null
-        },
-        {
-          "id": "bt_f31a1a71304f",
-          "segmentId": "seg_467c9f851df2",
-          "orderIndex": 9,
-          "weightClass": "FEATHERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_a18b27b1b696",
-          "blueCornerFighterId": "fgt_c93860bbdd2f",
           "result": null
         },
         {
