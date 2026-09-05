@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-05T11:07:57Z",
-    "generatedAt": "2026-09-05T11:07:57Z",
+    "dataVersion": "2026-09-05T20:59:04Z",
+    "generatedAt": "2026-09-05T20:59:04Z",
     "organizations": [
       "ufc"
     ]
@@ -2985,7 +2985,7 @@
       "fullName": "Daniil Donchenko",
       "nickname": null,
       "nationality": null,
-      "recordWins": 15,
+      "recordWins": 16,
       "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5289841.png",
@@ -3155,7 +3155,7 @@
       "fullName": "Delphine Benouaich",
       "nickname": null,
       "nationality": "FR",
-      "recordWins": 7,
+      "recordWins": 8,
       "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5345643.png",
@@ -3886,7 +3886,7 @@
       "fullName": "Fabia Sintes",
       "nickname": "El Potro Menorquin",
       "nationality": "ES",
-      "recordWins": 11,
+      "recordWins": 12,
       "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": null,
@@ -4022,7 +4022,7 @@
       "fullName": "Felipe Lima",
       "nickname": "Jungle Boy",
       "nationality": "BR",
-      "recordWins": 14,
+      "recordWins": 15,
       "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5101694.png",
@@ -6624,7 +6624,7 @@
       "nickname": null,
       "nationality": "PL",
       "recordWins": 8,
-      "recordLosses": 2,
+      "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5122175.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5122175.png"
@@ -6674,7 +6674,7 @@
       "fullName": "Kurtis Campbell",
       "nickname": "The Pink Panther",
       "nationality": "GB",
-      "recordWins": 8,
+      "recordWins": 9,
       "recordLosses": 1,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5310075.png",
@@ -7048,7 +7048,7 @@
       "fullName": "Losene Keita",
       "nickname": "Black Panther",
       "nationality": null,
-      "recordWins": 16,
+      "recordWins": 17,
       "recordLosses": 2,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5192314.png",
@@ -7253,7 +7253,7 @@
       "nickname": null,
       "nationality": "BR",
       "recordWins": 18,
-      "recordLosses": 5,
+      "recordLosses": 6,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4693161.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4693161.png"
@@ -7830,7 +7830,7 @@
       "fullName": "Mario Pinto",
       "nickname": null,
       "nationality": null,
-      "recordWins": 12,
+      "recordWins": 13,
       "recordLosses": 0,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5218817.png",
@@ -8051,7 +8051,7 @@
       "fullName": "Matthieu Letho Duclos",
       "nickname": null,
       "nationality": "FR",
-      "recordWins": 10,
+      "recordWins": 11,
       "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5013686.png",
@@ -8307,7 +8307,7 @@
       "nickname": "The Soldier",
       "nationality": "FR",
       "recordWins": 13,
-      "recordLosses": 3,
+      "recordLosses": 4,
       "recordDraws": 0,
       "imageUrl": null,
       "imageStanceUrl": null
@@ -8629,7 +8629,7 @@
       "fullName": "Modestas Bukauskas",
       "nickname": "The Baltic Gladiator",
       "nationality": null,
-      "recordWins": 20,
+      "recordWins": 21,
       "recordLosses": 7,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4279621.png",
@@ -8715,7 +8715,7 @@
       "nickname": "The Last Pirate",
       "nationality": "FR",
       "recordWins": 21,
-      "recordLosses": 12,
+      "recordLosses": 13,
       "recordDraws": 1,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4324622.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4324622.png"
@@ -8766,7 +8766,7 @@
       "nickname": "Hillman",
       "nationality": null,
       "recordWins": 13,
-      "recordLosses": 4,
+      "recordLosses": 5,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4690540.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4690540.png"
@@ -8953,7 +8953,7 @@
       "nickname": "The Last Kingsman",
       "nationality": "GB",
       "recordWins": 23,
-      "recordLosses": 6,
+      "recordLosses": 7,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/3950354.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3950354.png"
@@ -9190,7 +9190,7 @@
       "fullName": "Nora Cornolle",
       "nickname": null,
       "nationality": "FR",
-      "recordWins": 9,
+      "recordWins": 10,
       "recordLosses": 4,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4916974.png",
@@ -9344,7 +9344,7 @@
       "nickname": null,
       "nationality": "FR",
       "recordWins": 12,
-      "recordLosses": 2,
+      "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5074120.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5074120.png"
@@ -9616,7 +9616,7 @@
       "nickname": "Puna",
       "nationality": "US",
       "recordWins": 13,
-      "recordLosses": 4,
+      "recordLosses": 5,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4423214.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4423214.png"
@@ -10500,7 +10500,7 @@
       "nickname": "Superman",
       "nationality": "US",
       "recordWins": 24,
-      "recordLosses": 11,
+      "recordLosses": 12,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/3887606.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/3887606.png"
@@ -10959,7 +10959,7 @@
       "nickname": "La Bruja",
       "nationality": "AR",
       "recordWins": 6,
-      "recordLosses": 2,
+      "recordLosses": 3,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5308770.png",
       "imageStanceUrl": null
@@ -11707,7 +11707,7 @@
       "nickname": null,
       "nationality": "US",
       "recordWins": 9,
-      "recordLosses": 3,
+      "recordLosses": 4,
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5048900.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5048900.png"
@@ -25149,7 +25149,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_70e345cfa445",
           "blueCornerFighterId": "fgt_e1b283592da6",
-          "result": null
+          "result": {
+            "outcome": "DECISION",
+            "method": "Decision - Unanimous",
+            "winnerFighterId": "fgt_70e345cfa445",
+            "endRound": 3,
+            "endTime": "5:00",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_00279eac5476",
@@ -25161,7 +25168,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_5e707079ff33",
           "blueCornerFighterId": "fgt_991d501844c3",
-          "result": null
+          "result": {
+            "outcome": "DECISION",
+            "method": "Decision - Unanimous",
+            "winnerFighterId": "fgt_991d501844c3",
+            "endRound": 3,
+            "endTime": "5:00",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_e7f24a264c33",
@@ -25173,7 +25187,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_e04a348fddad",
           "blueCornerFighterId": "fgt_5603d866b118",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_e04a348fddad",
+            "endRound": 1,
+            "endTime": "2:54",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_05370fe09276",
@@ -25185,7 +25206,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_7abd2ccbfd5d",
           "blueCornerFighterId": "fgt_8b4f9d60e8dc",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_7abd2ccbfd5d",
+            "endRound": 2,
+            "endTime": "0:55",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_c3697b5c5f5a",
@@ -25197,7 +25225,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_e83899b03dfb",
           "blueCornerFighterId": "fgt_22938c640984",
-          "result": null
+          "result": {
+            "outcome": "SUBMISSION",
+            "method": "Submission",
+            "winnerFighterId": "fgt_e83899b03dfb",
+            "endRound": 3,
+            "endTime": "3:07",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_e75339571634",
@@ -25209,7 +25244,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_a47029e8b363",
           "blueCornerFighterId": "fgt_deed5b49eee7",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_deed5b49eee7",
+            "endRound": 2,
+            "endTime": "3:57",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_5704f68a47c0",
@@ -25221,7 +25263,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_35918bc0ef22",
           "blueCornerFighterId": "fgt_671c2f25bf34",
-          "result": null
+          "result": {
+            "outcome": "DECISION",
+            "method": "Decision - Unanimous",
+            "winnerFighterId": "fgt_671c2f25bf34",
+            "endRound": 3,
+            "endTime": "5:00",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_7523a069dd23",
@@ -25233,7 +25282,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_ccc4e0a66389",
           "blueCornerFighterId": "fgt_47d10d892b77",
-          "result": null
+          "result": {
+            "outcome": "DECISION",
+            "method": "Decision - Unanimous",
+            "winnerFighterId": "fgt_ccc4e0a66389",
+            "endRound": 3,
+            "endTime": "5:00",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_c616fce40c54",
@@ -25245,7 +25301,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_7b921b5766eb",
           "blueCornerFighterId": "fgt_ddfc8e303fc1",
-          "result": null
+          "result": {
+            "outcome": "KO_TKO",
+            "method": "KO/TKO",
+            "winnerFighterId": "fgt_7b921b5766eb",
+            "endRound": 1,
+            "endTime": "4:35",
+            "bonuses": []
+          }
         },
         {
           "id": "bt_93b9d4c686b4",
@@ -25257,7 +25320,14 @@
           "scheduledRounds": 3,
           "redCornerFighterId": "fgt_380b46286886",
           "blueCornerFighterId": "fgt_2582f35f95d7",
-          "result": null
+          "result": {
+            "outcome": "SUBMISSION",
+            "method": "Submission",
+            "winnerFighterId": "fgt_380b46286886",
+            "endRound": 2,
+            "endTime": "4:22",
+            "bonuses": []
+          }
         }
       ]
     },
