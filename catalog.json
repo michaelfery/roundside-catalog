@@ -1,8 +1,8 @@
 {
   "manifest": {
     "schemaVersion": 1,
-    "dataVersion": "2026-09-04T21:14:29Z",
-    "generatedAt": "2026-09-04T21:14:29Z",
+    "dataVersion": "2026-09-05T11:07:57Z",
+    "generatedAt": "2026-09-05T11:07:57Z",
     "organizations": [
       "ufc"
     ]
@@ -916,23 +916,6 @@
       "recordDraws": 0,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/3041315.png",
       "imageStanceUrl": null
-    },
-    {
-      "id": "fgt_9419bd32cc5d",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5292023"
-        }
-      ],
-      "fullName": "Anthony Guarascio",
-      "nickname": "The Daywalker",
-      "nationality": "US",
-      "recordWins": 3,
-      "recordLosses": 1,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5292023.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5292023.png"
     },
     {
       "id": "fgt_ea95f5720974",
@@ -1904,23 +1887,6 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4694832.png"
     },
     {
-      "id": "fgt_3fb019178bb0",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5222338"
-        }
-      ],
-      "fullName": "Cam Teague",
-      "nickname": "Chaos",
-      "nationality": "US",
-      "recordWins": 9,
-      "recordLosses": 2,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5222338.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5222338.png"
-    },
-    {
       "id": "fgt_4bd2f2d9f84e",
       "sources": [
         {
@@ -2259,23 +2225,6 @@
       "recordDraws": 1,
       "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/4354421.png",
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/4354421.png"
-    },
-    {
-      "id": "fgt_23778b52d892",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5193167"
-        }
-      ],
-      "fullName": "Chasen Blair",
-      "nickname": "Mestizo",
-      "nationality": "US",
-      "recordWins": 7,
-      "recordLosses": 4,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5193167.png",
-      "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5193167.png"
     },
     {
       "id": "fgt_c87ac9572fda",
@@ -10625,23 +10574,6 @@
       "imageStanceUrl": "https://a.espncdn.com/i/headshots/mma/players/stance/left/5088916.png"
     },
     {
-      "id": "fgt_17a143a3d027",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "5293557"
-        }
-      ],
-      "fullName": "Samuel Sanches",
-      "nickname": null,
-      "nationality": "BR",
-      "recordWins": 11,
-      "recordLosses": 1,
-      "recordDraws": 0,
-      "imageUrl": "https://a.espncdn.com/i/headshots/mma/players/full/5293557.png",
-      "imageStanceUrl": null
-    },
-    {
       "id": "fgt_618124080352",
       "sources": [
         {
@@ -12462,132 +12394,6 @@
     }
   ],
   "events": [
-    {
-      "id": "evt_275e51ce00c5",
-      "organizationId": "ufc",
-      "sources": [
-        {
-          "source": "espn",
-          "externalId": "600055007"
-        }
-      ],
-      "name": "Dana White's Contender Series: Season 9, Week 5",
-      "startAt": "2025-09-10T00:00:00Z",
-      "venue": "Meta APEX",
-      "city": "Las Vegas",
-      "country": "US",
-      "badge": {
-        "kind": "LABEL",
-        "text": "DWCS",
-        "detail": "S9 · W5"
-      },
-      "segments": [
-        {
-          "id": "seg_b990f7830e94",
-          "kind": "MAIN_CARD",
-          "label": "Main Card",
-          "orderIndex": 0,
-          "startAt": "2025-09-10T00:00:00Z"
-        }
-      ],
-      "bouts": [
-        {
-          "id": "bt_2135617b1d08",
-          "segmentId": "seg_b990f7830e94",
-          "orderIndex": 0,
-          "weightClass": "HEAVYWEIGHT",
-          "isMainEvent": true,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_9419bd32cc5d",
-          "blueCornerFighterId": "fgt_5b10da6be133",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_5b10da6be133",
-            "endRound": 1,
-            "endTime": "0:16",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_29b67916973b",
-          "segmentId": "seg_b990f7830e94",
-          "orderIndex": 1,
-          "weightClass": "FEATHERWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_3fb019178bb0",
-          "blueCornerFighterId": "fgt_4ebaec62906b",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_4ebaec62906b",
-            "endRound": 1,
-            "endTime": "0:36",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_cce2e2ae81df",
-          "segmentId": "seg_b990f7830e94",
-          "orderIndex": 2,
-          "weightClass": "LIGHT_HEAVYWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_b9055e490935",
-          "blueCornerFighterId": "fgt_69b51c424e82",
-          "result": {
-            "outcome": "SUBMISSION",
-            "method": "Submission",
-            "winnerFighterId": "fgt_69b51c424e82",
-            "endRound": 3,
-            "endTime": "4:48",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_a85d79aa762c",
-          "segmentId": "seg_b990f7830e94",
-          "orderIndex": 3,
-          "weightClass": "LIGHTWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_23778b52d892",
-          "blueCornerFighterId": "fgt_17a143a3d027",
-          "result": {
-            "outcome": "KO_TKO",
-            "method": "KO/TKO",
-            "winnerFighterId": "fgt_17a143a3d027",
-            "endRound": 1,
-            "endTime": "2:01",
-            "bonuses": []
-          }
-        },
-        {
-          "id": "bt_2ef65b649486",
-          "segmentId": "seg_b990f7830e94",
-          "orderIndex": 4,
-          "weightClass": "WOMENS_STRAWWEIGHT",
-          "isMainEvent": false,
-          "isTitleFight": false,
-          "scheduledRounds": 3,
-          "redCornerFighterId": "fgt_96ad0331791a",
-          "blueCornerFighterId": "fgt_33874b83a965",
-          "result": {
-            "outcome": "DECISION",
-            "method": "Decision - Unanimous",
-            "winnerFighterId": "fgt_33874b83a965",
-            "endRound": 3,
-            "endTime": "5:00",
-            "bonuses": []
-          }
-        }
-      ]
-    },
     {
       "id": "evt_e8d69e18bf41",
       "organizationId": "ufc",
